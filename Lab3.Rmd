@@ -1,0 +1,11 @@
+---
+title: "Lab3"
+author: "Kent Williams"
+date: "9/8/2021"
+output: html_document
+---
+
+```{r}
+NBA = read.csv("~/Desktop/DS-3001/data/NBA_2.csv")
+```
+
